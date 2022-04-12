@@ -19,7 +19,7 @@
         else if (i > 60 && i % 2 != 0)
         {
             Console.WriteLine(name + " your number is greater than 60 and odd.");
-
+            //ryan
         }
         else if (i < 60 && i % 2 == 0)
         {
